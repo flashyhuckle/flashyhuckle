@@ -3,6 +3,7 @@
 - Swift developer from Warsaw, PL
 - Fan of small web, gopher protocol, 'retro computing on modern hardware'
 - Open for hire 👁️
+- ✉️ lastnamefirstname@icloud
 
 ## Some of my apps
 
