@@ -7,7 +7,7 @@
 
 ## Some of my apps
 
-- 🆕 [GopherHop](https://github.com/flashyhuckle/GopherHop): mobile browser for gopher protocol. SwiftUI, MVC, custom animations, Networking (gopher procotol), SwiftData.
+- 🆕 [GopherHop](https://github.com/flashyhuckle/GopherHop): mobile browser for gopher protocol. SwiftUI, MVVM, custom animations, Networking (gopher procotol), SwiftData.
 - [SpaccaNapoli](https://github.com/flashyhuckle/SpaccaNapoli): pizza ordering/table reservation app for a pizzeria. SwiftUI, MVVM, Firebase, MapKit, second app for handling orders/reservations.
 - [WeatherAppProMax](https://github.com/flashyhuckle/WeatherAppProMax): multi-city weather app with detailed forecasts. SwiftUI, MVVM, RestAPI, Networking, SwiftData.
 - [WeatherAppPro](https://github.com/flashyhuckle/WeatherAppPro): weather app with detailed forecast. UIKit, MVVM-C, RestAPI, Networking, Location.
