@@ -1,6 +1,6 @@
 ## Hi 🧙‍♂️
 
-- Swift developer from Warsaw, PL
+- Swift developer
 - Fan of small web, gopher protocol, 'retro computing on modern hardware'
 
 ## Some of my apps
